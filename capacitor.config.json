@@ -1,0 +1,6 @@
+{
+  "appId": "com.beetlefortech.baumwerk",
+  "appName": "BaumWerk",
+  "webDir": ".",
+  "server": { "iosScheme": "https", "androidScheme": "https" }
+}
